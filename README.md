@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @santigo171
+- 👀 I’m interested in make amazing products to the poblation.
+- 🌱 I’m currently learning javascript.
+- 💞️ I’m looking to collaborate on a web development project.
+- 📫 How to reach me: i have a website santigo171.github.io
